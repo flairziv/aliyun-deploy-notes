@@ -11,16 +11,16 @@
 
 ## 目录
 
-- [1. 整体架构理解](docs/01-architecture.md)
-- [2. 本地打包](docs/02-local-build.md)
-- [3. 服务器环境搭建](docs/03-server-setup.md)
-- [4. 数据库初始化](docs/04-database.md)
-- [5. 后端部署](docs/05-backend-deploy.md)
-- [6. 前端部署](docs/06-frontend-deploy.md)
-- [7. Nginx 配置详解](docs/07-nginx.md)
-- [8. HTTPS 与域名配置](docs/08-https-domain.md)
-- [9. 日常更新与维护](docs/09-maintenance.md)
-- [10. 踩坑记录与排错](docs/10-troubleshooting.md)
+- [1. 整体架构理解](docs/01-整体架构理解.md)
+- [2. 本地打包](docs/02-本地打包.md)
+- [3. 服务器环境搭建](docs/03-服务器环境搭建.md)
+- [4. 数据库初始化](docs/04-数据库初始化.md)
+- [5. 后端部署](docs/05-后端部署.md)
+- [6. 前端部署](docs/06-前端部署.md)
+- [7. Nginx 配置详解](docs/07-Nginx配置详解.md)
+- [8. HTTPS 与域名配置](docs/08-HTTPS与域名配置.md)
+- [9. 日常更新与维护](docs/09-日常更新与维护.md)
+- [10. 踩坑记录与排错](docs/10-踩坑记录与排错.md)
 
 ## 适合谁看
 
